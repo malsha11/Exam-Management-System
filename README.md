@@ -1,4 +1,4 @@
-# Exam-management-system
+# Exam Management System
 
 This is my first project(2020). This Exam Management system is useful for manage the entire exam process in any education institute.
 During the changed education form, many educational institus have adopted the option of online examinations to assess their students’ performance. Improve your monotonous form of examinations also by offering a digital option of the examination management system and let your students shine in the bright digital future.
