@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Image">
+    <file>style/girl.png</file>
+    <file>style/bag.png</file>
+    <file>style/btn.png</file>
+    <file>style/card.png</file>
+    <file>style/cat.png</file>
+    <file>style/ext.png</file>
+    <file>style/set.png</file>
+  </qresource>
+</RCC>
