@@ -11,33 +11,22 @@ import sys
 
 from ui_login import *
 
-
 class Main_UI(QMainWindow):
 
     def __init__(self):
-
         QMainWindow.__init__(self)
-
         self.ui = Ui_login()
         self.ui.setupUi(self)
-
         self.ui.login_btn.clicked.connect(self.show_text)
 
-
-
     def show_text(self):
-
-        print(self.ui.user.text())
-
-
-
+         print(self.ui.user.text())
 
 if __name__ == '__main__':
 
     app = QApplication(sys.argv)
     main = Main_UI()
     main.show()
-
     app.exec_()
 
 
